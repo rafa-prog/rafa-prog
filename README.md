@@ -18,7 +18,7 @@
 - 📄 Know about [my experiences](https://drive.google.com/file/d/1ecqlY-lNyEUSwA2IqUkoo61YEJfqjAJg/view?usp=sharing)
 
 <br>
-<h3 align="left">Contact</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafab98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafab98" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21540108/rafael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rafael" height="30" width="40" /></a>
