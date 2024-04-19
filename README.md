@@ -66,8 +66,13 @@
 
 <br/>
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa-prog&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafa-prog" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Rafael's GitHub stats]([https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues](https://github-readme-stats.vercel.app/api/top-langs?username=rafa-prog&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafa-prog))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-prog&show_icons=true&theme=tokyonight)
-<br/>
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=rafa-prog&show_icons=true&theme=tokyonight)
+
+</div>
+
+<br><br>
