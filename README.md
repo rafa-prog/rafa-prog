@@ -68,8 +68,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rafa-prog&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafa-prog)
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rafa-prog&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=rafa-prog&show_icons=true&theme=tokyonight)
 
