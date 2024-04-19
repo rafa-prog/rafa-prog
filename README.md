@@ -34,13 +34,11 @@
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Angular and NodeJS**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **rrakaloskibarboza@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
+- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1ecqlY-lNyEUSwA2IqUkoo61YEJfqjAJg/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
