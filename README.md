@@ -32,13 +32,13 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [portfolio]()
 
 - 💬 Ask me about **Java, Angular and NodeJS**
 
 - 📫 How to reach me **rrakaloskibarboza@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1ecqlY-lNyEUSwA2IqUkoo61YEJfqjAJg/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1ecqlY-lNyEUSwA2IqUkoo61YEJfqjAJg/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
