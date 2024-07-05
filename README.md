@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Rakaloski Barboza</h1>
-<h3 align="center">A passionate Programmer from Brazil</h3>
+<h3 align="center">Web DEV from Brazil</h3>
 <p align="center">I developed knowledge of databases and improvedthe abstraction of information. I gained experience inprogramming and a wide range of technical skills. Ihave a passion for solving complex problems throughprogramming. I am always looking to improve my skillsand learn new technologies.</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
